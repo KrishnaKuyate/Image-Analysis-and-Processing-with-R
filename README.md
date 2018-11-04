@@ -1,7 +1,11 @@
 # Image-Analysis-and-Processing-with-R
 Image Analysis and Processing with R
 
-Install Packge :EBImage::source("https://bioconductor.org/biocLite.R")
+#Install Package :magick
+#The new magick package is an ambitious effort to modernize and simplify high-quality image processing in R
 
-Read Image 
+install.packages("magick")
+library(magick)
+
+
 
